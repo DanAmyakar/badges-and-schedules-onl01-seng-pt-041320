@@ -6,4 +6,4 @@ end
 
 # Batch badge maker method using the previous method.
 def batch_badge_maker(roster)
-  
+  badge_message
