@@ -28,5 +28,6 @@ def printer(roster)
   each(my_badges) do |el|
     puts el
   end
+  my_room
 end
 
