@@ -23,3 +23,4 @@ def assign_room(rms)
   room_assignment
 end  
 
+def printer
