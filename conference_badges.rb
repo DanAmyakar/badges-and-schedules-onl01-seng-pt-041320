@@ -28,6 +28,7 @@ def printer(roster)
   each(my_badges) do |el|
     puts el
   end
-  my_rooms = assign_room
+  my_rooms = assign_room(roster)
+  
 end
 
