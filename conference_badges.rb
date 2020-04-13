@@ -24,4 +24,4 @@ def assign_room(rms)
 end  
 
 def printer(roster)
-  
+  my_badges = 
