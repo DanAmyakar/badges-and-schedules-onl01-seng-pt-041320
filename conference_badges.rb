@@ -29,6 +29,8 @@ def printer(roster)
     puts el
   end
   my_rooms = assign_room(roster)
-  each(my_rooms)
+  each(my_rooms) do |el|
+    puts el
+  end
 end
 
