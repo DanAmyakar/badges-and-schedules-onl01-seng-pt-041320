@@ -34,3 +34,4 @@ def printer(roster)
   end
 end
 
+printer(attendees)
