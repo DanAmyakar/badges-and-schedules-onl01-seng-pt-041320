@@ -34,4 +34,3 @@ def printer(roster)
   end
 end
 
-printer(roster)
