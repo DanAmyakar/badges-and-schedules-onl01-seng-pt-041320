@@ -5,7 +5,7 @@ def badge_maker(nam)
 end
 
 # Batch badge maker method using the previous method.
-def batch_badge_maker(roster)
+def batch_badge_creater(roster)
   badge_message = []
   roster.each do |nam|
     
