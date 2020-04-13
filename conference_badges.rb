@@ -8,7 +8,7 @@ end
 def batch_badge_creator(roster)
   badge_messages = []
   roster.each do |nam|
-    badge_message << badge_maker(nam)
+    badge_messages << badge_maker(nam)
   end
   badge_messages
 end
