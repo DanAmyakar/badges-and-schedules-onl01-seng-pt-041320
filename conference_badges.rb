@@ -25,5 +25,6 @@ end
 
 def printer(roster)
   my_badges = batch_badge_creator(roster)
+  
 end
 
