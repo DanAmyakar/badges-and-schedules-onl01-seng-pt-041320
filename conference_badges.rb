@@ -29,6 +29,6 @@ def printer(roster)
     puts el
   end
   my_rooms = assign_room(roster)
-  
+  each(my_rooms)
 end
 
