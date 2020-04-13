@@ -14,6 +14,7 @@ def batch_badge_creator(roster)
 end
 
 # Room Assignments
-def assign_room()
+def assign_room(rms)
   room_assignment = []
   
+end  
