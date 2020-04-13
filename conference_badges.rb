@@ -5,4 +5,5 @@ def badge_maker(nam)
 end
 
 # Batch badge maker method using the previous method.
-def batch_badge_maker(list, )
+def batch_badge_maker(roster)
+  
