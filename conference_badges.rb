@@ -15,4 +15,5 @@ end
 
 # Room Assignments
 def assign_room()
-  room
+  room_assignment = []
+  
