@@ -16,8 +16,8 @@ end
 # Room Assignments
 def assign_room(rms)
   room_assignment = []
-  rms.each_with_index do |rm, ndx|
+  rms.each_with_index do |nam, ndx|
     ndx += 1
-    room_assignment << "Hello #{}"
+    room_assignment << "Hello #{nam}, "
   end
 end  
