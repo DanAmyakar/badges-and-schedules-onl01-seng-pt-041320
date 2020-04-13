@@ -18,6 +18,6 @@ def assign_room(rms)
   room_assignment = []
   rms.each_with_index do |rm, ndx|
     ndx += 1
-    room_assignment << 
+    room_assignment << "Hello"
   end
 end  
