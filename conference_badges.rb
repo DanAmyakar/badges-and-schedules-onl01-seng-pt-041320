@@ -20,4 +20,6 @@ def assign_room(rms)
     ndx += 1
     room_assignment << "Hello #{nam}! You'll be in room #{ndx}!"
   end
+  room_assignment
 end  
+
