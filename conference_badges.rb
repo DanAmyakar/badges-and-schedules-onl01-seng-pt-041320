@@ -15,3 +15,4 @@ end
 
 # Room Assignments
 def assign_room()
+  room
