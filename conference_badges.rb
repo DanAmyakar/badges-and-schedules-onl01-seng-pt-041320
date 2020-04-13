@@ -12,3 +12,5 @@ def batch_badge_creator(roster)
   end
   badge_messages
 end
+
+# Room Assignments
